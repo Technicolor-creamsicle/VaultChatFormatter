@@ -5,7 +5,7 @@ description: ${project.description}
 author: Luck
 depend: [Vault]
 api-version: 1.13
-
+folia-supported: true
 commands:
   vaultchatformatter:
     description: Reload the configuration
